@@ -1,0 +1,12 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
